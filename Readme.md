@@ -1,7 +1,8 @@
-Esta va ser la estructura de los proyectos \n
-se basa en estructura de capas
-dao = se conectara con la parte de bbdd 
-service = contendra la logíca del backend
-facade = conectara con el mobile y web, importante esta capa estaran los endpoints
+This will be the structure of the projects
+It is based on layer structure
 
-Ademas es importante meter el .gitignore para los posteriores despleigues en los entornos
+dao = will connect to the bbdd part
+service = will contain the logic of the backend
+facade = connect to the mobile and web, important this layer will be the endpoints
+
+It is also important to put the .gitignore for subsequent deployments in the environments
