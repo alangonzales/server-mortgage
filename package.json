@@ -1,0 +1,14 @@
+{
+  "name": "server-mortgage",
+  "version": "1.0.0",
+  "description": "\"Pruebas sobre la hipoteca de canada\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Gonzales y Roberto Carlos Villanueva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
